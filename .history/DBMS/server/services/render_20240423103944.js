@@ -1,2 +1,0 @@
-exports.homeRoutes=(req,res) => {
-    
