@@ -1,4 +1,4 @@
-# Global-call-DBMS
+# Global_Development_Service_DBMS
 
 Database Management System (DBMS):
 To enhance the management of the backend database used in this web application, we are developing a web-based Database Management System (DBMS). This system will provide an intuitive interface for administrators to perform various database management tasks, including:
@@ -19,7 +19,8 @@ API Communication: Axios
 Security: JSON Web Tokens (JWT) for authentication and authorization
 Other Tools: CORS for cross-origin resource sharing, bcrypt.js for password hashing
 
-# Global-call-DBMS
+#  Global_Development_Service_DBMS
+
 
 Sistema de Gestión de Bases de Datos (DBMS): Para mejorar la gestión de la base de datos backend utilizada en esta aplicación web, estamos desarrollando un Sistema de Gestión de Bases de Datos (DBMS) basado en la web. Este sistema proporcionará una interfaz intuitiva para que los administradores realicen diversas tareas de gestión de bases de datos, que incluyen:
 
